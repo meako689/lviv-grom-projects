@@ -1,0 +1,255 @@
+,id,votes,category,name,voted,added,url,is_big
+0,1,2.0,other,"Ремонт та благоустрій тротуару, дорожнього полотна до ЖК ""Авалон"" (1 та 2 кільця)",True,15.08.2021,https://lviv.pb.org.ua/projects/1,False
+1,2,272.0,other,"Система відеоспостереження в парку ""Горіховий гай""",True,15.08.2021,https://lviv.pb.org.ua/projects/2,True
+2,3,,education,Автодром для навчання (водіїв),False,15.08.2021,https://lviv.pb.org.ua/projects/3,True
+3,4,39.0,other,Облаштування дитячого майданчика,True,16.08.2021,https://lviv.pb.org.ua/projects/4,False
+4,5,69.0,other,Жива вода міста Дублян,True,16.08.2021,https://lviv.pb.org.ua/projects/5,True
+5,6,40.0,other,Сквер Здоров'я,True,17.08.2021,https://lviv.pb.org.ua/projects/6,False
+6,7,110.0,other,Скейт-парк Skateboarding Рясне-2,True,19.08.2021,https://lviv.pb.org.ua/projects/7,False
+7,9,18.0,education,Встановлення сучасного спортивно - ігрового обладнання на ігрових майданчиках ЗДО № 18,True,19.08.2021,https://lviv.pb.org.ua/projects/9,False
+8,10,32.0,education,Огородження території Дублянського опорного ліцею ліцей імені Героя України Анатолія Жаловаги,True,19.08.2021,https://lviv.pb.org.ua/projects/10,False
+9,11,60.0,education,Придбання мультифункціональних комплексів для ігрових майданчиків у ЗДО №114 м.Львова,True,26.08.2021,https://lviv.pb.org.ua/projects/11,False
+10,12,26.0,other,Альтернативне вуличне освітлення,True,27.08.2021,https://lviv.pb.org.ua/projects/12,False
+11,14,702.0,education,Будівництво навчально-спортивного комплексу на території Ліцею №28 ЛМР,True,28.08.2021,https://lviv.pb.org.ua/projects/14,True
+12,15,,other,Інноваційний громадський простір у Стрийському парку,False,28.08.2021,https://lviv.pb.org.ua/projects/15,False
+13,16,46.0,other,Створення парку біля озера Стосика,True,30.08.2021,https://lviv.pb.org.ua/projects/16,False
+14,17,,education,"Комфортний освітній простір Лисиничівської гімназії ЛМР, с.Лисиничі, алея Шкільна, буд. 2",False,30.08.2021,https://lviv.pb.org.ua/projects/17,False
+15,18,55.0,other,"Громадський простір в парку ""Горіховий гай""",True,01.09.2021,https://lviv.pb.org.ua/projects/18,False
+16,19,100.0,education,Модернізація ігрових майданчиків у ЗДО №154 ЛМР,True,02.09.2021,https://lviv.pb.org.ua/projects/19,False
+17,20,168.0,education,Завершення реконструкції пришкільного покриття на території ЛЗШ №43,True,03.09.2021,https://lviv.pb.org.ua/projects/20,True
+18,21,48.0,education,Облаштування спортивного майданчику на території Зарудцівської гімназії.,True,03.09.2021,https://lviv.pb.org.ua/projects/21,False
+19,22,,other,"Міні-футбол на Роксоляни 87 (а,б,в)",False,03.09.2021,https://lviv.pb.org.ua/projects/22,False
+20,23,11.0,other,Громадський простір на вулиці Дозвільна 1,True,03.09.2021,https://lviv.pb.org.ua/projects/23,False
+21,24,368.0,education,"Облаштування доріжок ЗДО ""Веселка""",True,05.09.2021,https://lviv.pb.org.ua/projects/24,False
+22,25,78.0,education,"Капітальний ремонт благоустрою території ЗДО №125 на вул. Героїв УПА, 41 у м. Львові",True,06.09.2021,https://lviv.pb.org.ua/projects/25,False
+23,26,56.0,education,"Заклад дошкільної освіти №45 «Мрії збуваються»- здорова дитина,здорове майбутнє.",True,06.09.2021,https://lviv.pb.org.ua/projects/26,True
+24,27,43.0,other,Облаштування громадського простору по вул. Рубчака між будинками №33 та 33А.,True,06.09.2021,https://lviv.pb.org.ua/projects/27,False
+25,28,48.0,education,"Заклад дошкільної освіти №45 ""Спортивно-сенсорна зала""",True,06.09.2021,https://lviv.pb.org.ua/projects/28,False
+26,29,36.0,other,Зона відпочинку на вул. Антонича 24б ( Озеро Бетонка,True,06.09.2021,https://lviv.pb.org.ua/projects/29,False
+27,30,21.0,other,Зона активного дозвілля у парку Піскові Озера,True,07.09.2021,https://lviv.pb.org.ua/projects/30,False
+28,31,134.0,education,"Капітальний ремонт подвір'я Початкової школи ""Світанок""",True,07.09.2021,https://lviv.pb.org.ua/projects/31,True
+29,32,117.0,education,Капітальний ремонт харчоблоку у Початковій школі «Світанок»,True,07.09.2021,https://lviv.pb.org.ua/projects/32,False
+30,33,8.0,other,Встановлення пам’ятника депортованим із Польщі до України у 1944-1955 рр.,True,07.09.2021,https://lviv.pb.org.ua/projects/33,True
+31,34,13.0,other,",,Замкові моржі”-територія здорового способу життя.",True,07.09.2021,https://lviv.pb.org.ua/projects/34,False
+32,35,68.0,education,Облаштування дитячого майданчика на території ліцею №6,True,07.09.2021,https://lviv.pb.org.ua/projects/35,False
+33,36,34.0,other,Стежки Горіхового Гаю (2 частина),True,07.09.2021,https://lviv.pb.org.ua/projects/36,False
+34,37,31.0,other,Мандариновий плейграунд з елементами зеро-вейст,True,08.09.2021,https://lviv.pb.org.ua/projects/37,False
+35,38,21.0,other,"Безпечний простір на просп.Чорновола, 45-47",True,08.09.2021,https://lviv.pb.org.ua/projects/38,False
+36,39,1.0,other,Відновлення дитячого майданчика та облаштування громадського простору на Сихівській 19,True,08.09.2021,https://lviv.pb.org.ua/projects/39,False
+37,40,100.0,education,Сучасна діагностика - здоровий пацієнт(апарат УЗД для пологового будинку на вул.Мечнікова),True,08.09.2021,https://lviv.pb.org.ua/projects/40,True
+38,41,59.0,education,Попередити малюкову смертність можна - фетальний монітор для пологового будинку на вул. Мечнікова,True,08.09.2021,https://lviv.pb.org.ua/projects/41,False
+39,42,98.0,education,"Встановлення сучасних ігрових споруд у ЗДО № 14 по вул. Щурата, 2 у м. Львові",True,08.09.2021,https://lviv.pb.org.ua/projects/42,False
+40,43,55.0,education,"«Подбай про майбутніх матусь! Сучасні комфортні ліжка в пологове на Рапопорта, 8»",True,08.09.2021,https://lviv.pb.org.ua/projects/43,False
+41,44,,education,"Реконструкціїя балетного залу та підсобних приміщень заслуженого ансамблю танцю ""Юність""",False,08.09.2021,https://lviv.pb.org.ua/projects/44,True
+42,45,245.0,education,"""Здорові! Спортивні! Натхненні!""",True,08.09.2021,https://lviv.pb.org.ua/projects/45,False
+43,46,,other,Подвір'я пам'яті Дебори Фогель та Бруно Шульца,False,08.09.2021,https://lviv.pb.org.ua/projects/46,True
+44,47,352.0,education,Шкільна бібліотека SMARTHub СЗШ №96,True,08.09.2021,https://lviv.pb.org.ua/projects/47,False
+45,48,20.0,other,"Громадський простір навпроти Виговського,73-Кульпарківська,176",True,08.09.2021,https://lviv.pb.org.ua/projects/48,False
+46,50,62.0,other,"Громадський мультиспортивний простір ""Центральний парк ""Зашків""""",True,08.09.2021,https://lviv.pb.org.ua/projects/50,True
+47,51,113.0,other,Сквер «ГРІНPARK» на вулиці Грінченка №6,True,08.09.2021,https://lviv.pb.org.ua/projects/51,False
+48,53,319.0,other,Спорт на Малоголосківській,True,09.09.2021,https://lviv.pb.org.ua/projects/53,False
+49,54,33.0,education,Облаштування дитячих майданчиків у ЗДО № 150,True,09.09.2021,https://lviv.pb.org.ua/projects/54,False
+50,55,37.0,education,Огородження території закладу дошкільної освіти (ясла-садок) № 150,True,09.09.2021,https://lviv.pb.org.ua/projects/55,True
+51,57,37.0,education,"«Естетика та комфорт для колективів ЛШМ №9 (сценічні костюми, одяг для сцени та відеообладнання)»",True,09.09.2021,https://lviv.pb.org.ua/projects/57,False
+52,58,191.0,education,"Реконструкція шкільної їдальні СЗШ№30 ""Ліґумінка""",True,09.09.2021,https://lviv.pb.org.ua/projects/58,False
+53,59,26.0,education,Нове лабораторне обладнання - нова якість дослідження,True,09.09.2021,https://lviv.pb.org.ua/projects/59,False
+54,60,158.0,education,Лаунж-зона в сучасному коридорі початкової школи Ліцею № 15 ЛМР,True,09.09.2021,https://lviv.pb.org.ua/projects/60,False
+55,61,291.0,education,"""Капітальний ремонт подвір’я СЗШ № 42 м. Львова""",True,09.09.2021,https://lviv.pb.org.ua/projects/61,False
+56,62,41.0,education,"""Творча майстерня"" Великогрибовицького ліцею",True,09.09.2021,https://lviv.pb.org.ua/projects/62,False
+57,63,124.0,education,Сучасний науковий простір (STEАM - лабораторія) у СЗШ № 44,True,09.09.2021,https://lviv.pb.org.ua/projects/63,False
+58,64,127.0,education,Шкільний двір - простір для дітей,True,09.09.2021,https://lviv.pb.org.ua/projects/64,False
+59,65,18.0,other,Впорядкування території для відпочинку у північній частині Вайнберг-парку (Винники),True,09.09.2021,https://lviv.pb.org.ua/projects/65,False
+60,66,80.0,other,Дитячо-юнацький спортивно-ігровий майданчик на вул. Патона 2/3,True,09.09.2021,https://lviv.pb.org.ua/projects/66,False
+61,69,80.0,education,Захисти Дитяче Здоров'я,True,10.09.2021,https://lviv.pb.org.ua/projects/69,True
+62,70,72.0,other,"ОБЛАШТУВАННЯ СКВЕРУ НА КУЛЬЧИЦЬКОЇ, 18",True,10.09.2021,https://lviv.pb.org.ua/projects/70,False
+63,71,54.0,education,"Безпечний та інтерактивний простір гімназії села Лисиничі алея Шкільна, буд. 2",True,10.09.2021,https://lviv.pb.org.ua/projects/71,False
+64,72,43.0,other,Сучасний спортивно-ігровий майданчик по вул.Ясна 6 - Комарова 21,True,10.09.2021,https://lviv.pb.org.ua/projects/72,False
+65,73,295.0,education,Модернізація реакреаційного простору у ліцеї №75 імені Лесі Українки ЛМР,True,10.09.2021,https://lviv.pb.org.ua/projects/73,False
+66,74,,education,Добудова ліцею №75 імені Лесі Українки ЛМР з метою ліквідації ІІ зміни,False,10.09.2021,https://lviv.pb.org.ua/projects/74,True
+67,75,4.0,other,"Встановлення підземних контейнерів, на місці існуючого майданчику.",True,10.09.2021,https://lviv.pb.org.ua/projects/75,False
+68,76,432.0,education,MUSIC HALL СЗШ №49,True,10.09.2021,https://lviv.pb.org.ua/projects/76,False
+69,77,14.0,other,Ремонт дорожнього покриття по вул. Любінській у м.Львові,True,10.09.2021,https://lviv.pb.org.ua/projects/77,True
+70,78,46.0,other,Реновація громадського простору в сквері на перетині вулиць Героїв УПА та Кульпарківської,True,10.09.2021,https://lviv.pb.org.ua/projects/78,False
+71,79,1.0,other,Облаштування громадського простору в сквері на перетині вулиць Липинського-Замарстинівська-Підрічна,True,10.09.2021,https://lviv.pb.org.ua/projects/79,False
+72,80,,other,"Спортивний простір ""Нові Дубляни""",False,10.09.2021,https://lviv.pb.org.ua/projects/80,True
+73,81,26.0,education,"ЧИСТА ВОДА в школах Галицького, Залізничного і Шевченківського районів Львова",True,10.09.2021,https://lviv.pb.org.ua/projects/81,True
+74,82,213.0,education,"Кids cafe ""Первоцвіт""",True,10.09.2021,https://lviv.pb.org.ua/projects/82,False
+75,83,564.0,education,Клас просто неба в СЗШ № 98,True,10.09.2021,https://lviv.pb.org.ua/projects/83,False
+76,84,234.0,education,"Актова зала Львівської гімназії ""Євшан"" - простір для втілення креативних ідей",True,10.09.2021,https://lviv.pb.org.ua/projects/84,True
+77,85,359.0,education,Територія спорту в ліцеї ім. В. Симоненка,True,10.09.2021,https://lviv.pb.org.ua/projects/85,False
+78,86,743.0,education,Реконструкція та ремонт спортивного залу СЗШ 90,True,10.09.2021,https://lviv.pb.org.ua/projects/86,False
+79,87,41.0,education,Духові та ударні інструменти для Львівської музичної школи №1 ім. А. Кос-Анатольського,True,10.09.2021,https://lviv.pb.org.ua/projects/87,False
+80,88,4.0,other,Капітальний ремонт доріжок парку смт. Рудне,True,11.09.2021,https://lviv.pb.org.ua/projects/88,False
+81,89,12.0,other,Дитяче дозвілля замість пустиря в с.Зашків вул.о.Мармаша,True,11.09.2021,https://lviv.pb.org.ua/projects/89,False
+82,90,24.0,other,Життя - це дія,True,11.09.2021,https://lviv.pb.org.ua/projects/90,False
+83,91,148.0,education,"ЧИСТА ВОДА в школах Франківського, Личаківського і Сихівського районів Львова",True,12.09.2021,https://lviv.pb.org.ua/projects/91,True
+84,92,7.0,other,"Тротуар, дорога та благоустрій території біля смітників навпроти Роксоляни № 57-59",True,12.09.2021,https://lviv.pb.org.ua/projects/92,False
+85,94,68.0,other,Влаштування кільцевого руху автомобілів на небезпечному перехресті в смт. Брюховичі,True,12.09.2021,https://lviv.pb.org.ua/projects/94,False
+86,95,39.0,other,"Облаштування Парку-скверу по вул. Карманського, 6А та І.Франка 157Б",True,12.09.2021,https://lviv.pb.org.ua/projects/95,False
+87,96,,other,"Облаштування дитячого майданчика на новому мікрорайоні ""Підлужки"" м.Дубляни",False,12.09.2021,https://lviv.pb.org.ua/projects/96,False
+88,98,,other,"Повна реконструкція дитячого майданчика по вул. Некрасова, 57 за Європейським зразком Брав участь ДО",False,12.09.2021,https://lviv.pb.org.ua/projects/98,False
+89,99,194.0,other,"Облаштування дитячого майданчика за адресою: пр. Червоної Калини, 58",True,13.09.2021,https://lviv.pb.org.ua/projects/99,False
+90,100,208.0,education,« Інтерактивний ХАБ для дошкільнят здо № 134 »,True,13.09.2021,https://lviv.pb.org.ua/projects/100,False
+91,101,248.0,education,Життя без болю (реабілітаційне обладнання для дітей),True,13.09.2021,https://lviv.pb.org.ua/projects/101,False
+92,102,11.0,education,Облаштування дитячих ігрових майданчиків на території Зашківського ЗДО,True,13.09.2021,https://lviv.pb.org.ua/projects/102,False
+93,103,1.0,other,Лазанка в парку Франка,True,13.09.2021,https://lviv.pb.org.ua/projects/103,False
+94,104,165.0,education,Безпечне дозвілля в країні знань,True,13.09.2021,https://lviv.pb.org.ua/projects/104,False
+95,105,,education,«ОБЛАШТУВАННЯ ДИТЯЧИХ МАЙДАНЧИКІВ ЗДО № 149»,False,13.09.2021,https://lviv.pb.org.ua/projects/105,False
+96,106,157.0,education,Сучасний харчоблок ліцею № 15 - запорука здоров'я школярів,True,13.09.2021,https://lviv.pb.org.ua/projects/106,True
+97,107,104.0,education,ПОКРАЩЕННЯ БЛАГОУСТРОЮ ДИТЯЧОГО САДОЧКА МІСТА ВИННИКИ,True,13.09.2021,https://lviv.pb.org.ua/projects/107,False
+98,108,145.0,education,Благоустрій території школи №77,True,13.09.2021,https://lviv.pb.org.ua/projects/108,False
+99,109,15.0,other,Тротуарна доріжка в районі вулиці Княгині Ольги 120 -122,True,13.09.2021,https://lviv.pb.org.ua/projects/109,False
+100,110,92.0,education,Дитячі клуби Львова в м. Винники. Створення безкоштовного креативного простору для дітей та молоді.,True,13.09.2021,https://lviv.pb.org.ua/projects/110,True
+101,111,63.0,education,Сучасна лабораторія фізики у СЗШ №50,True,13.09.2021,https://lviv.pb.org.ua/projects/111,False
+102,112,154.0,other,"Сквер ""Золото Полуботка""",True,13.09.2021,https://lviv.pb.org.ua/projects/112,False
+103,113,277.0,other,"""Простір Пам’яті"" в смт. Рудно",True,13.09.2021,https://lviv.pb.org.ua/projects/113,True
+104,114,115.0,other,Дитяча Мрія на Вернадського,True,13.09.2021,https://lviv.pb.org.ua/projects/114,False
+105,115,122.0,other,Облаштування театральної майстерні в Палаці Хоткевича,True,13.09.2021,https://lviv.pb.org.ua/projects/115,False
+106,116,412.0,education,Школа починається з порогу,True,13.09.2021,https://lviv.pb.org.ua/projects/116,False
+107,117,56.0,education,Благоустрій подвір’я Львівської музичної школи №3.,True,13.09.2021,https://lviv.pb.org.ua/projects/117,False
+108,118,341.0,education,«Наша нова їдальня. Смачно. Затишно. Сучасно».,True,13.09.2021,https://lviv.pb.org.ua/projects/118,True
+109,119,133.0,education,Нехай б'ється серце дитини!,True,13.09.2021,https://lviv.pb.org.ua/projects/119,True
+110,120,3.0,other,"Мультифункціональний дитячий майданчик по вулиці вул.С.Литвиненка, 10-12",True,13.09.2021,https://lviv.pb.org.ua/projects/120,False
+111,121,13.0,education,Реабілітація – шанс на повноцінне життя,True,13.09.2021,https://lviv.pb.org.ua/projects/121,False
+112,122,230.0,other,Мультиспортивний майданчик з дитячою ігровою зоною на вул. Студентській,True,13.09.2021,https://lviv.pb.org.ua/projects/122,True
+113,123,4.0,education,Подаруй дітям радість!,True,13.09.2021,https://lviv.pb.org.ua/projects/123,False
+114,124,138.0,education,Облаштування подвір'я ліцею №18 ЛМР,True,13.09.2021,https://lviv.pb.org.ua/projects/124,True
+115,125,56.0,other,"Парк 700-річчя. Інклюзивний, баскетбольний, тренажерний майданчик, кінотеатр, відеонагляд.",True,13.09.2021,https://lviv.pb.org.ua/projects/125,True
+116,126,72.0,education,ПРОЕКТ МОДЕРНІЗАЦІЇ СПОРТИВНО-АКТОВОГО ЗАЛУ В ЛІЦЕЇ №10,True,13.09.2021,https://lviv.pb.org.ua/projects/126,False
+117,127,1795.0,education,Здорове Дихання,True,13.09.2021,https://lviv.pb.org.ua/projects/127,False
+118,128,221.0,education,Сучасне безпечне подвір’я СЗШ №40 м. Львова,True,13.09.2021,https://lviv.pb.org.ua/projects/128,False
+119,129,24.0,other,"Громадський простір Мазепи 9А, Мазепи7А",True,13.09.2021,https://lviv.pb.org.ua/projects/129,False
+120,130,143.0,education,Капітальна реконструкція харчоблоку Ліцею №57. Здорове харчування - здорові діти!,True,13.09.2021,https://lviv.pb.org.ua/projects/130,True
+121,131,58.0,other,Дитячий простір на Плуговій 8-8а,True,13.09.2021,https://lviv.pb.org.ua/projects/131,False
+122,132,2011.0,education,"Безбар’єрний простір практичної науки ""Puliui Science Hub""",True,14.09.2021,https://lviv.pb.org.ua/projects/132,True
+123,133,30.0,other,"Дитячий майданчик ""Веселка"" на Калнишевського,1",True,14.09.2021,https://lviv.pb.org.ua/projects/133,False
+124,134,64.0,education,Сучасний безпечний простір для дошкільнят: облаштування подвір'я ЗДО №121,True,14.09.2021,https://lviv.pb.org.ua/projects/134,False
+125,135,418.0,education,Шкільне подвір’я СЗШ № 67,True,14.09.2021,https://lviv.pb.org.ua/projects/135,False
+126,136,17.0,education,Капітальний ремонт подвір'я Підбірцівського ліцею ЛМР,True,14.09.2021,https://lviv.pb.org.ua/projects/136,False
+127,137,24.0,education,Екомайстерня. Нове життя старим речам. Львівська правнича гімназія.,True,14.09.2021,https://lviv.pb.org.ua/projects/137,True
+128,138,15.0,education,Влаштування альтанки від сонця та дощу ДНЗ номер 29 вул.Чайковського 22 м.Львів,True,14.09.2021,https://lviv.pb.org.ua/projects/138,False
+129,139,12.0,education,Веселий острів для Пізнайок,True,14.09.2021,https://lviv.pb.org.ua/projects/139,False
+130,140,48.0,education,Комфортні прогулянки в ЗДО №1,True,14.09.2021,https://lviv.pb.org.ua/projects/140,False
+131,141,149.0,education,English Lab_29,True,14.09.2021,https://lviv.pb.org.ua/projects/141,False
+132,142,7.0,other,Сучасний спортивно-ігровий майданчик по вул. Городоцька 319 - 317,True,14.09.2021,https://lviv.pb.org.ua/projects/142,False
+133,143,,other,Бавимось разом! Облаштування доступного ігрового простору за принципами універсального дизайну.,False,14.09.2021,https://lviv.pb.org.ua/projects/143,False
+134,144,402.0,education,"Освітньо-відпочинковий простір ""R.E.A.L. patio""",True,14.09.2021,https://lviv.pb.org.ua/projects/144,True
+135,145,365.0,education,"Природнича лабораторія «Discover the world» ліцею ""Львівський"" Львівської міської ради",True,14.09.2021,https://lviv.pb.org.ua/projects/145,False
+136,147,26.0,other,Реконструкція дитячого спортивного майданчику,True,14.09.2021,https://lviv.pb.org.ua/projects/147,False
+137,148,27.0,other,Облаштування підземних контейнерів для сміття навпроти дитячо-спортивного майданчика на Франка 157а,True,14.09.2021,https://lviv.pb.org.ua/projects/148,True
+138,149,300.0,education,Благоустрій внутрішнього шкільного подвір'я СЗШ№86,True,14.09.2021,https://lviv.pb.org.ua/projects/149,False
+139,150,19.0,education,Закупівля обладнання для фізкабінету та бактерицидних рецеркуляторів для Дублянської міської лікарні,True,14.09.2021,https://lviv.pb.org.ua/projects/150,False
+140,151,28.0,education,Закупівля стаціонарного рентгенівського апарату для Дублянської міської лікарні,True,14.09.2021,https://lviv.pb.org.ua/projects/151,True
+141,152,107.0,education,Нова огорожа для ЗДО №154 ЛМР,True,14.09.2021,https://lviv.pb.org.ua/projects/152,True
+142,153,251.0,education,Реконструкція харчоблоку у СЗШ № 65,True,14.09.2021,https://lviv.pb.org.ua/projects/153,False
+143,154,231.0,education,Реанімобіль для львів'ян,True,14.09.2021,https://lviv.pb.org.ua/projects/154,True
+144,155,28.0,other,Дитячо-спортивний майданчик в Рясному,True,14.09.2021,https://lviv.pb.org.ua/projects/155,False
+145,156,137.0,education,Оновлений дитячий садок №71 у центрі старого Львова,True,14.09.2021,https://lviv.pb.org.ua/projects/156,True
+146,157,,education,Простір здоров'я у Львівському вищому професійному училищі харчових технологій,False,14.09.2021,https://lviv.pb.org.ua/projects/157,False
+147,158,15.0,education,Реконструкція спортивного майданчика на задньому дворі у СЗШ № 22 ім. В. Стефаника,True,14.09.2021,https://lviv.pb.org.ua/projects/158,False
+148,159,167.0,education,Вестибюль як частина освітнього процесу школи,True,14.09.2021,https://lviv.pb.org.ua/projects/159,False
+149,160,85.0,education,Дитячі клуби Львова в Рясне. Створення безкоштовного сучасного та креативного простору для дітей.,True,14.09.2021,https://lviv.pb.org.ua/projects/160,True
+150,161,499.0,education,"""Від мрії до дії"" . Модернізація спортивного залу ліцею 93 ЛМР",True,14.09.2021,https://lviv.pb.org.ua/projects/161,False
+151,162,45.0,education,"Капітальний ремонт спортивного майданчика на території ЗДО №95 по вул. Гайдамацька, 2-а у м. Львові",True,14.09.2021,https://lviv.pb.org.ua/projects/162,False
+152,163,63.0,education,"Радість дитинства-сучасний майданчик ЗДО ""Лісова казка""",True,14.09.2021,https://lviv.pb.org.ua/projects/163,False
+153,164,63.0,education,Заміна тіньових навісів (павільйонів) у Дублянському ЗДО (ясла-садок)Львівської міської ради,True,14.09.2021,https://lviv.pb.org.ua/projects/164,False
+154,165,11.0,other,Спортивний майданчик «МРІЇ ЗДІЙСНЮЮТЬСЯ»,True,14.09.2021,https://lviv.pb.org.ua/projects/165,False
+155,166,237.0,education,НАВЧАЛЬНО-ІГРОВИЙ МАЙДАНЧИК НА БЕЗПЕЧНОМУ ПОДВІР’Ї ШКОЛИ №40,True,14.09.2021,https://lviv.pb.org.ua/projects/166,True
+156,167,37.0,other,Капітальний ремонт вул. Хвильового,True,14.09.2021,https://lviv.pb.org.ua/projects/167,True
+157,168,724.0,education,Медіатека «I.D.E.A.Lab» та радіо «Сьома хвиля» у СЗШ №7,True,14.09.2021,https://lviv.pb.org.ua/projects/168,False
+158,169,21.0,other,"""Дитяча мрія""- спортивно- відпочинковий простір для дітей, підлітків та їх батьків.",True,14.09.2021,https://lviv.pb.org.ua/projects/169,False
+159,170,91.0,other,«Реставрація дитячого майданчику на вул. Стрийська-вул. Наукова»,True,14.09.2021,https://lviv.pb.org.ua/projects/170,False
+160,171,38.0,other,"Рідний дім-затишний двір Червоної калини 104,106,108",True,14.09.2021,https://lviv.pb.org.ua/projects/171,False
+161,172,149.0,other,Високий замок: дитячий майданчик в парку,True,14.09.2021,https://lviv.pb.org.ua/projects/172,True
+162,173,73.0,education,"Територія для спорту, ігрової діяльності, розваг для дітей ЗДО № 163",True,14.09.2021,https://lviv.pb.org.ua/projects/173,False
+163,174,105.0,education,Реконструкція внутрішнього шкільного подвір я,True,14.09.2021,https://lviv.pb.org.ua/projects/174,False
+164,176,199.0,education,Облаштування внутрішнього подвір'я Ліцею №45,True,14.09.2021,https://lviv.pb.org.ua/projects/176,False
+165,177,73.0,other,Облаштування громадського простору на перетині проспекту Червоної Калини та вулиці М. Скрипника,True,14.09.2021,https://lviv.pb.org.ua/projects/177,True
+166,178,7.0,other,"Благоустрій території за адресою: вул. Любінська,150",True,14.09.2021,https://lviv.pb.org.ua/projects/178,False
+167,179,33.0,other,"Громадський простір ""Науковий""",True,14.09.2021,https://lviv.pb.org.ua/projects/179,False
+168,180,255.0,education,"Капітальний ремонт території СЗШ №48 на вул. І. Рубчака, 8",True,14.09.2021,https://lviv.pb.org.ua/projects/180,False
+169,181,366.0,other,Парк на Малоголосківській,True,14.09.2021,https://lviv.pb.org.ua/projects/181,True
+170,182,627.0,education,Creative Hubs (Творчий центр) - клас під відкритим небом.,True,15.09.2021,https://lviv.pb.org.ua/projects/182,False
+171,183,254.0,education,"Комфортний та безпечний освітній простір ліцею №2 ЛМР на вул. В.Великого, 55а",True,15.09.2021,https://lviv.pb.org.ua/projects/183,False
+172,184,112.0,education,Благоустрій подвір’я загальноосвітньої школи «Дивосвіт»,True,15.09.2021,https://lviv.pb.org.ua/projects/184,False
+173,185,105.0,other,Дворик щастя,True,15.09.2021,https://lviv.pb.org.ua/projects/185,False
+174,186,530.0,education,Створення розвиваючого простору школярів для навчання та активного дозвілля,True,15.09.2021,https://lviv.pb.org.ua/projects/186,True
+175,187,204.0,education,Дитяча радість,True,15.09.2021,https://lviv.pb.org.ua/projects/187,False
+176,188,47.0,other,"Капітальний ремонт благоустрою території за адресою вул.Драгана,9 м.Львів",True,15.09.2021,https://lviv.pb.org.ua/projects/188,False
+177,189,271.0,education,Модернізація школи №36 для навчання та активного дозвілля школярів по вул. Володимира Великого 55б,True,15.09.2021,https://lviv.pb.org.ua/projects/189,False
+178,190,1.0,other,Облаштування бювету з альтанкою з питною артезіанською водою у верхній частині Стрийського парку,True,15.09.2021,https://lviv.pb.org.ua/projects/190,False
+179,191,12.0,other,"Здорове дозвілля парку в ""700-річчя Львова""",True,15.09.2021,https://lviv.pb.org.ua/projects/191,False
+180,192,31.0,education,Ігрові споруди на території ЗДО №127,True,15.09.2021,https://lviv.pb.org.ua/projects/192,False
+181,193,304.0,education,Від сучасного харчоблоку до здорового харчування,True,15.09.2021,https://lviv.pb.org.ua/projects/193,True
+182,195,223.0,education,"STEM - навчання майбутнього. Обладнання STEM лабораторії в ліцеї №46, ім. В. Чорновола",True,15.09.2021,https://lviv.pb.org.ua/projects/195,False
+183,196,498.0,education,"Сучасна та комфортна їдальня у НВК ""Школа-садок ""Софія""",True,15.09.2021,https://lviv.pb.org.ua/projects/196,False
+184,197,195.0,education,Переобладнання та ремонт їдальні Ліцею №45,True,15.09.2021,https://lviv.pb.org.ua/projects/197,True
+185,198,121.0,education,Мануфактура здорової їжі у СЗШ №20,True,15.09.2021,https://lviv.pb.org.ua/projects/198,False
+186,199,11.0,education,Огорожа Зарудцівської гімназії - безпека та комфорт дитячого шкільного життя,True,15.09.2021,https://lviv.pb.org.ua/projects/199,False
+187,200,66.0,education,«БЕЗПЕКА ДІТЕЙ – УМОВА УСПІШНОГО ЇХ РОЗВИТКУ» (Реконструкція павільйонів у ЗДО № 75),True,15.09.2021,https://lviv.pb.org.ua/projects/200,False
+188,201,74.0,education,«БЕЗПЕЧНІ ДОРІЖКИ ДЛЯ ДИТЯЧИХ НІЖОК» ОБЛАШТУВАННЯ ДОРІЖОК НА ТЕРИТОРІЇ ЗДО №75,True,15.09.2021,https://lviv.pb.org.ua/projects/201,True
+189,202,28.0,other,Спортивний воркаут-майданчик на Цитаделі,True,15.09.2021,https://lviv.pb.org.ua/projects/202,False
+190,203,177.0,education,Оновлення шкільної кухні та створення шкільного простору «Майстер Шеф»,True,15.09.2021,https://lviv.pb.org.ua/projects/203,False
+191,204,,other,"Роздягальні на ""Арена білогорща""",False,15.09.2021,https://lviv.pb.org.ua/projects/204,False
+192,205,97.0,education,"Спортивне Рясне. Стадіон для міжрайонних змагань з футболу та баскетболу СЗШ №92. Шевченка, 390",True,15.09.2021,https://lviv.pb.org.ua/projects/205,True
+193,206,521.0,education,"""Тупотіли ніжки по нових доріжках""",True,15.09.2021,https://lviv.pb.org.ua/projects/206,False
+194,207,,other,Молодіжний громадський центр із коворкінгом у Дублянах,False,15.09.2021,https://lviv.pb.org.ua/projects/207,False
+195,208,4.0,other,"SMART CITY на Чорновола, 101: сучасні технології для містян та гостей міста",True,15.09.2021,https://lviv.pb.org.ua/projects/208,False
+196,209,213.0,education,Комфортний простір для пацієнтів поліклініки 1 МКЛ ім. Князя Лева,True,15.09.2021,https://lviv.pb.org.ua/projects/209,True
+197,210,26.0,other,Реконструкція підпірної стіни на території Високого Замку,True,15.09.2021,https://lviv.pb.org.ua/projects/210,False
+198,211,0.0,other,Веселі та корисні прогулянки на Пасічній,True,15.09.2021,https://lviv.pb.org.ua/projects/211,False
+199,212,25.0,other,Громадський lounge-простір на вул. Вигоди 60 - Низинна 60 (Левандівка),True,15.09.2021,https://lviv.pb.org.ua/projects/212,False
+200,213,49.0,other,"Відпочинкова зона Рясне-1 (Шевченка, 358Б)",True,15.09.2021,https://lviv.pb.org.ua/projects/213,False
+201,214,46.0,education,Сучасна їдальня Грядівської гімназії Львівської міської ради,True,15.09.2021,https://lviv.pb.org.ua/projects/214,False
+202,215,,education,Благоустрій території внутрішнього дворику ЛМВ ім. В.Стуса ЛМР,False,15.09.2021,https://lviv.pb.org.ua/projects/215,True
+203,216,4.0,other,СТВОРЕННЯ ГРОМАДСЬКОГО ПРОСТОРУ МІЖ ВУЛИЦЯМИ КУБІЙОВИЧА ТА СНОПКІВСЬКА,True,15.09.2021,https://lviv.pb.org.ua/projects/216,False
+204,217,,other,Новий майданчик на Вернадського,False,15.09.2021,https://lviv.pb.org.ua/projects/217,False
+205,218,88.0,education,"Творчий простір для дітей ""Замок"" у Ліцеї №57 імені Короля Данила",True,15.09.2021,https://lviv.pb.org.ua/projects/218,False
+206,219,354.0,education,Модернізація спортивного простору Ліцею №51 ім. І. Франка ЛМР,True,15.09.2021,https://lviv.pb.org.ua/projects/219,True
+207,220,136.0,other,Безпечний Сихів,True,15.09.2021,https://lviv.pb.org.ua/projects/220,False
+208,221,30.0,other,Реконструкція майданчика на Професорській колонії,True,15.09.2021,https://lviv.pb.org.ua/projects/221,False
+209,222,18.0,other,Журбинка за Бруківкою Володимира Великого 125,True,15.09.2021,https://lviv.pb.org.ua/projects/222,False
+210,223,14.0,other,Сквер Дорога Кривчицька - Ніщинського,True,15.09.2021,https://lviv.pb.org.ua/projects/223,False
+211,224,41.0,education,Благоустрій території ЗДО №43,True,15.09.2021,https://lviv.pb.org.ua/projects/224,False
+212,225,547.0,education,"Смачна Локація в Ліцеї ""Сихівський""",True,15.09.2021,https://lviv.pb.org.ua/projects/225,True
+213,226,,other,Громадський простір на ділянці прилеглій до Б.Хмельницького 230а,False,15.09.2021,https://lviv.pb.org.ua/projects/226,False
+214,227,3.0,other,Дерева на вул. Ференца Ліста,True,15.09.2021,https://lviv.pb.org.ua/projects/227,False
+215,228,37.0,other,Негода - не причина не гуляти! Облаштування майданчика з дахом на Шафарика,True,15.09.2021,https://lviv.pb.org.ua/projects/228,False
+216,229,128.0,education,Благоустрій території ЗДО №41,True,15.09.2021,https://lviv.pb.org.ua/projects/229,False
+217,230,13.0,other,Встановлення відеонагляду у с.Підбірці,True,15.09.2021,https://lviv.pb.org.ua/projects/230,False
+218,231,,other,Громадський проект ВИХІД,False,15.09.2021,https://lviv.pb.org.ua/projects/231,False
+219,232,254.0,education,Зроби крок до дитячої мрії,True,15.09.2021,https://lviv.pb.org.ua/projects/232,False
+220,233,23.0,education,"Скейт парк ""Мрія""",True,15.09.2021,https://lviv.pb.org.ua/projects/233,False
+221,234,2.0,other,Друга черга робіт з облаштування сенсорного саду для собак,True,15.09.2021,https://lviv.pb.org.ua/projects/234,False
+222,235,169.0,education,Інтерактивний приймальний покій КНП «Львівська 1-а міська клінічна лікарня ім. Князя Лева»,True,15.09.2021,https://lviv.pb.org.ua/projects/235,False
+223,236,60.0,other,Комфортний двір - крок у майбутнє! Створення громадського простору на Шафарика,True,15.09.2021,https://lviv.pb.org.ua/projects/236,True
+224,237,53.0,other,Гарт. Спортивний майданчик.,True,15.09.2021,https://lviv.pb.org.ua/projects/237,False
+225,238,68.0,other,"Дитячий майданчик "" Мрія"" Полуботка-Сихівська",True,15.09.2021,https://lviv.pb.org.ua/projects/238,False
+226,239,151.0,other,Громадський простір по вул.Тракт Глинянський 55,True,15.09.2021,https://lviv.pb.org.ua/projects/239,False
+227,240,49.0,other,"Громадський простір для мешканців мікрорайону ""Провесінь"" на вул. Тракті Глинянському",True,15.09.2021,https://lviv.pb.org.ua/projects/240,False
+228,241,62.0,other,"Облаштування бруківкою подвір’я на вул. І. Рубчака, 5",True,15.09.2021,https://lviv.pb.org.ua/projects/241,False
+229,242,1.0,other,Підземний контейнерний майданчик за адресою Виговського 17,True,15.09.2021,https://lviv.pb.org.ua/projects/242,False
+230,243,304.0,education,Творчі діти – успішна нація,True,15.09.2021,https://lviv.pb.org.ua/projects/243,True
+231,244,57.0,education,Дитяча мрія дошкільнят - сучасний ігровий простір ЗДО №12,True,15.09.2021,https://lviv.pb.org.ua/projects/244,False
+232,245,,other,"Спортивний майданчик для наймолодших мешканців мікрорайону ""Провесінь"" на вулиці Тракт Глинянський",False,15.09.2021,https://lviv.pb.org.ua/projects/245,False
+233,246,295.0,education,"""Sport Хаб"" - крута фізкультура в ліцеї ""Оріяна""",True,15.09.2021,https://lviv.pb.org.ua/projects/246,False
+234,247,6.0,other,Літня сцена на Левандівці,True,15.09.2021,https://lviv.pb.org.ua/projects/247,False
+235,248,247.0,education,Креативний холл імені (Кузьми) Скрябіна,True,15.09.2021,https://lviv.pb.org.ua/projects/248,False
+236,249,111.0,education,"""MEDIA HUB 31 - територія нових можливостей""",True,15.09.2021,https://lviv.pb.org.ua/projects/249,False
+237,250,346.0,education,Капітальний ремонт з улаштуванням бруківки на території СЗШ №55 м. Львова,True,15.09.2021,https://lviv.pb.org.ua/projects/250,False
+238,251,172.0,education,Інструменти для музичної школи № 2,True,15.09.2021,https://lviv.pb.org.ua/projects/251,False
+239,252,309.0,education,СПОРТИВНИЙ КОРПУС ЧЕМПІОНІВ,True,15.09.2021,https://lviv.pb.org.ua/projects/252,True
+240,253,,other,Музичний сад Людкевича,False,15.09.2021,https://lviv.pb.org.ua/projects/253,False
+241,254,,other,"Відновлення двору ""На гірці""",False,15.09.2021,https://lviv.pb.org.ua/projects/254,False
+242,255,12.0,other,"Влаштування мистецької тераси ЦАДУ ""ПОРОХОВА ВЕЖА"" при ЛОО НСАУ",True,15.09.2021,https://lviv.pb.org.ua/projects/255,False
+243,256,124.0,education,"ТЕРИТОРІЯ УСПІХУ (СЗШ № 63, м. Львів, вул. Личаківська, 171)",True,15.09.2021,https://lviv.pb.org.ua/projects/256,False
+244,257,8.0,other,"Облаштавання дитячого майданчика на вул. Ряшівська, 13-15",True,15.09.2021,https://lviv.pb.org.ua/projects/257,False
+245,258,62.0,education,Каяки для секції кануполо на Погулянці,True,15.09.2021,https://lviv.pb.org.ua/projects/258,False
+246,259,33.0,other,"Облаштування огорожі та гумового покриття на дитячому майданчику по вул. Трильовського,5",True,15.09.2021,https://lviv.pb.org.ua/projects/259,False
+247,260,1.0,other,Міні скейт-парк на Калічій Горі,True,15.09.2021,https://lviv.pb.org.ua/projects/260,False
+248,261,17.0,other,"Водовідведення підпірної стінки по вул. Мазепи 31, 33, 35",True,15.09.2021,https://lviv.pb.org.ua/projects/261,False
+249,262,,other,WORKOUT на Білогорщі,False,15.09.2021,https://lviv.pb.org.ua/projects/262,False
+250,263,,other,Центр соціально-екологічного життя громади на вул. Шафарика,False,15.09.2021,https://lviv.pb.org.ua/projects/263,False
+251,264,5.0,other,ПАРК ПІДГОРИ. Продовження (на розі вулиць Личаківська - Бахматюка),True,15.09.2021,https://lviv.pb.org.ua/projects/264,False
+252,265,1.0,other,Капітальний ремонт дитячого майданчика та новий ігровий комплекс в ЛКП «ЛЦПКіВ ім.Б.Хмельницького»,True,15.09.2021,https://lviv.pb.org.ua/projects/265,False
+253,266,21.0,education,"Kids media space ( Майстерня творчості) для дітей Ліцею ""Просвіта"" ЛМР",True,15.09.2021,https://lviv.pb.org.ua/projects/266,False
